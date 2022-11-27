@@ -2,3 +2,30 @@ Project Topic- Covid-19 Data Vizualisation Using Matlplotlib in Python
 Name- Sumeet Wagh
 Class- 12th Science 
 
+Project was Made in Spyder 3.7
+
+This is a Graphical Visual Representation of data and statistics using elements like graphs.
+
+
+
+Modules which i Have used-
+
+Pyplot 
+It is a module in Matlplotlib which was used.
+Code- import matplotlib.pyplot
+So basically Pyplot is such a module in which it has some sort of plotting function which we have used.
+
+NOTE- I have used Spyder so in Spyder matplotlib comes pre-installed
+
+Numpy 
+It's a module of python that offers functions for fast math computation arrays 
+
+Arrays not a module but its a thing which is similar to lists in python
+like in list we can put/add any thing we wanted for example numbers alphabets,symbols etc..
+but in ase of array its not as list in array if we put/add number then the whole array should be of numbers or if we add/put alphabets insead of numbers
+then the whole array should be of alphabets.
+
+In Simple 
+All elements of same datatype 
+Functionality is different
+
